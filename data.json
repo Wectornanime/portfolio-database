@@ -1,0 +1,173 @@
+{
+    "name": "Wectornanime Felipe",
+    "subName": "Fullstack studant",
+    "imageURL": "https://www.github.com/Wectornanime.png",
+    "aboutMe": "Olá, meu nome é Wectornanime Felipe, tenho 20 anos de idade, sou técnico em redes de computadores pela ETE Professor Lucilo Ávila Pessoa. Atualmente estou me graduando em Análise e Desenvolvimento de Sistemas na faculdade Senac. Tenho interesse na área de fulllstack com ênfase em JavaScript e TypeScript tanto para o frontend como para o backend. Estudo também outras linguagens de programação, como Python para desenvolvimento backend. Os frameworks que mais utilizo são o React e o Angular para frontend e para o backend costumo fazer a utilização do Flask.",
+    "links": [
+        {
+            "label": "Github",
+            "url": "https://www.github.com/wectornanime"
+        },
+        {
+            "label": "Linkedin",
+            "url": "https://www.linkedin.com/in/wectornanime-nascimento"
+        },
+        {
+            "label": "Currículo",
+            "url": "https://drive.google.com/file/d/10rBcLbdATNfF01OJCZU5X9E91AEnAaot/view"
+        }
+    ],
+    "hability": [
+        {
+            "name": "HTML5",
+            "deviconClass": "devicon-html5-plain"
+        },
+        {
+            "name": "CSS3",
+            "deviconClass": "devicon-css3-plain"
+        },
+        {
+            "name": "JavaScript",
+            "deviconClass": "devicon-javascript-plain"
+        },
+        {
+            "name": "TypeScript",
+            "deviconClass": "devicon-typescript-plain"
+        },
+        {
+            "name": "Angular",
+            "deviconClass": "devicon-angularjs-plain"
+        },
+        {
+            "name": "React",
+            "deviconClass": "devicon-react-plain"
+        },
+        {
+            "name": "Python",
+            "deviconClass": "devicon-python-plain"
+        },
+        {
+            "name": "Flask",
+            "deviconClass": "devicon-flask-plain"
+        },
+        {
+            "name": "MySQL",
+            "deviconClass": "devicon-mysql-plain"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Blog em Angular",
+            "description": "Desafio de projeto proposto pela DIO (Digital Innovation One) no bootcamp 'Potencial Tech Angular Developer - powered by iFood'.",
+            "imageURL": "https://raw.githubusercontent.com/Wectornanime/portfolio-database/main/projects/blog.png",
+            "links": [
+                {
+                    "label": "Github",
+                    "url":"https://github.com/Wectornanime/DIO-desafio_de_projeto-Angular-Blog"
+                },
+                {
+                    "label": "Site",
+                    "url": "https://wectornanime-angula-blog.netlify.app/"
+                }
+            ]
+        },
+        {
+            "title": "BuzzFeed-Clone",
+            "description": "Desafio de projeto proposto pela DIO (Digital Innovation One) no bootcamp 'Potencial Tech Angular Developer - powered by iFood'. No projeto foi posposto, desenvolver um clone do BuzzFeed utilizando Angular. Nele foi montado um pequeno teste simples, com o intuito de revelar se você é um 'vilão', ou um 'herói'.",
+            "imageURL": "https://raw.githubusercontent.com/Wectornanime/portfolio-database/main/projects/buzzfeed.png",
+            "links": [
+                {
+                    "label": "Github",
+                    "url":"https://github.com/Wectornanime/DIO-desafio_de_projeto-Angular-BuzzFeed-Clone"
+                },
+                {
+                    "label": "Site",
+                    "url": "https://wectornanime-buzzfeed-clone.netlify.app/"
+                }
+            ]
+        },
+        {
+            "title": "CadastroIdoso",
+            "description": "O projeto é uma aplicação web completa com front, back e banco de dados, para cadastro de idosos e remédios que podem ser associados ao idoso.",
+            "imageURL": "https://raw.githubusercontent.com/Wectornanime/portfolio-database/main/projects/cadastro-idoso.png",
+            "links": [
+                {
+                    "label": "Github",
+                    "url":"https://github.com/Wectornanime/cadastroIdoso"
+                }
+            ]
+        },
+        {
+            "title": "CadLivros",
+            "description": "O projeto é um crud proposto pela cadeira de Cooding durante a faculdade, aqui é simulado um painel de controle de uma biblioteca, que contem um sistema de login.",
+            "imageURL": "",
+            "links": [
+                {
+                    "label": "Github",
+                    "url":"https://github.com/Wectornanime/facul_crud"
+                },
+                {
+                    "label": "Site",
+                    "url":"https://wectornanime.github.io/facul_crud"
+                }
+            ]
+        }
+    ],
+    "certificates": [
+        {
+            "description": "Certificado de Angular",
+            "imageURL": "https://hermes.dio.me/certificates/cover/EE3B8478.jpg",
+            "link": "https://www.dio.me/certificate/EE3B8478"
+        },
+        {
+            "description": "Hackathon NASA Space Apps - 2023",
+            "imageURL": "https://raw.githubusercontent.com/Wectornanime/portfolio-database/main/certificates/nasa.png",
+            "link": "https://drive.google.com/file/d/1a93MUeYNb0YnJSJs47hmB00hBW-kz2rH/view"
+        },
+        {
+            "description": "Fundamentos de Computação em Nuvem na AWS",
+            "imageURL": "https://hermes.digitalinnovation.one/certificates/cover/141C1C05.jpg",
+            "link": "https://www.dio.me/certificate/141C1C05"
+        },
+        {
+            "description": "Certificado de Angular",
+            "imageURL": "https://hermes.digitalinnovation.one/certificates/cover/E9CBE57B.jpg",
+            "link": "https://www.dio.me/certificate/E9CBE57B"
+        },
+        {
+            "description": "Certificado de Bootcamp de Azure",
+            "imageURL": "https://raw.githubusercontent.com/Wectornanime/portfolio-database/main/certificates/azure.png",
+            "link": "https://drive.google.com/file/d/1-niSnPsDTJVIe7yaznmf66E9gPC87qn1/view"
+        },
+        {
+            "description": "Certificado do Mult-Stack 4",
+            "imageURL": "https://raw.githubusercontent.com/Wectornanime/portfolio-database/main/certificates/multstack-4.png",
+            "link": "https://drive.google.com/file/d/1-uD5nsWPtIBNzayFi9w3TxtlYazgzWCW/view"
+        },
+        {
+            "description": "Principais Protocolos de Comunicação da Internet",
+            "imageURL": "https://hermes.digitalinnovation.one/certificates/cover/E9387BCB.jpg",
+            "link": "https://www.dio.me/certificate/E9387BCB"
+        },
+        {
+            "description": "Certificado de Bootcamp de Cloud",
+            "imageURL": "https://raw.githubusercontent.com/Wectornanime/portfolio-database/main/certificates/bootcamp-de-cloud.png",
+            "link": "https://drive.google.com/file/d/1-oZLO3TAtgwl9KyNo0QDQMeWYY8XGmIz/view"
+        },
+        {
+            "description": "Certificado do Mult-Stack 2",
+            "imageURL": "https://raw.githubusercontent.com/Wectornanime/portfolio-database/main/certificates/multstack-2.png",
+            "link": "https://drive.google.com/file/d/1-vTRSMPCBUDx804tf1MBf7C3qoUC9E0i/view"
+        },
+        {
+            "description": "Diploma de Redes de Computadores",
+            "imageURL": "https://raw.githubusercontent.com/Wectornanime/portfolio-database/main/certificates/rdc.png",
+            "link": "https://drive.google.com/file/d/10YdOIuNOZp41wwruEdJVWVtVgpNH5d3b/view?usp=sharing"
+        },
+        {
+            "description": "Informática mais redes sociais",
+            "imageURL": "https://raw.githubusercontent.com/Wectornanime/portfolio-database/main/certificates/formacao.png",
+            "link": "https://drive.google.com/file/d/10ZkbOcd88eu_VH7oOV6q6_nU7ef7MGlN/view"
+        }
+    ]
+}
